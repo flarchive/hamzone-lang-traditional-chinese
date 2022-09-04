@@ -1,0 +1,31 @@
+{
+  "name": "hamzone/lang-traditional-chinese",
+  "description": "Flarum 繁体中文語言包",
+  "keywords": [
+    "flarum",
+    "locale",
+    "Chinsese",
+    "中文"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "hamzone",
+      "email": "contact@hamzone.cn",
+      "homepage": "https://bbs.hamzone.cn"
+    }
+  ],
+  "require": {
+    "flarum/core": "^1.0"
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "繁体中文語言包"
+    },
+    "flarum-locale": {
+      "code": "zh-hant",
+      "title": "繁体中文"
+    }
+  }
+}
