@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of hamzone/lang-traditional-chinese.** Not for installation: use [Packagist](https://packagist.org/packages/hamzone/lang-traditional-chinese) or the [upstream repository](https://github.com/HamZone/lang-traditional-chinese).
 
-**0** versions archived · Latest: [`1.0`](https://github.com/flarchive/hamzone-lang-traditional-chinese/tree/archive/v1.0) · License: `MIT` · Flarum: `^1.0`
+**1** versions archived · Latest: [`1.0`](https://github.com/flarchive/hamzone-lang-traditional-chinese/tree/archive/v1.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2022-09-04 | `^1.0` | [Browse](https://github.com/flarchive/hamzone-lang-traditional-chinese/tree/archive/v1.0) |
 
 Catalog entry: [packages/hamzone-lang-traditional-chinese.json](https://github.com/flarchive/archive-index/blob/main/packages/hamzone-lang-traditional-chinese.json)
 
